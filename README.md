@@ -1,3 +1,2 @@
 # smiles4dock
-For converting ZINC SMILES to MOL, SDF, PDB, or PDBQT format
-ZINC Database
+For converting SMILES to MOL, SDF, PDB, or PDBQT file from ZINC Database format
